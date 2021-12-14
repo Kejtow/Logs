@@ -1,5 +1,6 @@
 ## Overview
 Repository with preconfigured maven project with junit5 configuration on a board.
+Some small changes done in this learn-the-ghflow branch
 
 ## Building
 ...
